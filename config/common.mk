@@ -152,7 +152,8 @@ PRODUCT_PACKAGES += \
     CMAccount \
     CyanogenSetupWizard \
     CMSettingsProvider \
-    ExactCalculator
+    ExactCalculator	\
+	OmniSwitch
 
 # CM Platform Library
 PRODUCT_PACKAGES += \
