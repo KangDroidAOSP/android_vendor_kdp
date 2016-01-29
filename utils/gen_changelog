@@ -38,5 +38,5 @@ done
 
 sed -i 's/project/   */g' $Changelog
 
-cp $Changelog $ANDROID_BUILD_TOP/vendor/kdp/utils/ChangeLog-KDP.txt
+cp $Changelog $ANDROID_BUILD_TOP/vendor/kdp/utils/KangDroid-Project_ChangeLog.txt
 rm $Changelog
