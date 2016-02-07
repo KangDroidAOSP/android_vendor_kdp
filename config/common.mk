@@ -127,7 +127,7 @@ PRODUCT_COPY_FILES += \
 
 # Live lockscreen
 PRODUCT_COPY_FILES += \
-    vendor/cm/config/permissions/org.cyanogenmod.livelockscreen.xml:system/etc/permissions/org.cyanogenmod.livelockscreen.xml
+    vendor/kdp/config/permissions/org.cyanogenmod.livelockscreen.xml:system/etc/permissions/org.cyanogenmod.livelockscreen.xml
 
 # Theme engine
 include vendor/kdp/config/themes_common.mk
