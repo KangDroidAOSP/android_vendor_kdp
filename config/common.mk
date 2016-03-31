@@ -159,6 +159,7 @@ PRODUCT_PACKAGES += \
     CyanogenSetupWizard \
     CMSettingsProvider \
     ExactCalculator	\
+	LiveLockScreenService \
 	OmniSwitch
 
 # Exchange support
