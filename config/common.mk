@@ -160,6 +160,7 @@ PRODUCT_PACKAGES += \
     CMSettingsProvider \
     ExactCalculator	\
 	LiveLockScreenService \
+	WeatherProvider \
 	OmniSwitch
 
 # Exchange support
