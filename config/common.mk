@@ -161,7 +161,8 @@ PRODUCT_PACKAGES += \
     ExactCalculator	\
 	LiveLockScreenService \
 	WeatherProvider \
-	OmniSwitch
+	OmniSwitch	\
+	DataUsageProvider
 
 # Exchange support
 PRODUCT_PACKAGES += \
