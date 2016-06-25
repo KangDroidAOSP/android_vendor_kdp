@@ -160,7 +160,8 @@ PRODUCT_PACKAGES += \
 	LiveLockScreenService \
 	WeatherProvider \
 	OmniSwitch	\
-	DataUsageProvider
+	DataUsageProvider \
+    WallpaperPicker
 
 # Exchange support
 PRODUCT_PACKAGES += \
