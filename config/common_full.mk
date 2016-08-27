@@ -1,10 +1,10 @@
 # Inherit common CM stuff
-$(call inherit-product, vendor/cm/config/common.mk)
+$(call inherit-product, vendor/hexa/config/common.mk)
 
 PRODUCT_SIZE := full
 
 # Include CM audio files
-include vendor/cm/config/cm_audio.mk
+include vendor/hexa/config/cm_audio.mk
 
 # Optional CM packages
 PRODUCT_PACKAGES += \
